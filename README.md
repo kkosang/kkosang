@@ -2,3 +2,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyui13)](https://solved.ac/tyui13/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkosang&hide=contribs,prs&show_icons=true&theme=테마)
+<a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=kkosang&theme=desert" width="600px" />
+</a>
